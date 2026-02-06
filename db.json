@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin@123",
+      "role": "admin",
+      "id": "85b5"
+    },
+    {
+      "id": "322b11fc-4404-4100-8c07-71ef68938051",
+      "name": "payal",
+      "email": "payal@gmail.com",
+      "password": "payal1234",
+      "confirmPassword": "payal1234",
+      "role": "user"
+    },
+    {
+      "id": "a69ce7a4-2da7-4465-a365-4242a8a332e4",
+      "name": "a",
+      "email": "a@gmail.com",
+      "password": "a1234",
+      "confirmPassword": "a1234",
+      "role": "user"
+    },
+    {
+      "id": "3f26d6c3-fc9e-4ceb-ad31-97113de12d2b",
+      "name": "Payal Sahoo",
+      "email": "payalsahoo6842@gmail.com",
+      "password": "payal123",
+      "confirmPassword": "payal123",
+      "role": "user"
+    }
+  ]
+}
